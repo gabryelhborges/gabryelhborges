@@ -1,21 +1,31 @@
-## Hi there 👋
-
-<!--
-**gabryelhborges/gabryelhborges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Olá, eu sou Gabryel Borges
 
 <div align="center">
-  <img width="39%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabryelhborges&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=A1A4A0&bg_color=0d1117" alt="Yago Akio Fonseca Rumin github stats"/>
-  <img width="60%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabryelhborges&layout=compact&hide_border=true&langs_count=10&title_color=FF0000&text_color=A1A4A0&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabryelhborges&show_icons=true&count_private=true&hide_border=true&title_color=FDEE2F&icon_color=FDEE2F&text_color=A1A4A0&bg_color=0d1117" alt="Gabryel Borges Github stats"/>
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabryelhborges&layout=compact&hide_border=true&langs_count=10&title_color=FDEE2F&text_color=A1A4A0&bg_color=0d1117" />
 </div>
+
+## 
+
+### Linguagens: 
+<div>
+   <img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+   <img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+   <img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+   <img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+   <img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+   <img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+   <img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
+  
+</div>
+
+### Atualmente estudando:
+<div>
+   <img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg" />
+   <img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+   <img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" />
+  
+</div>
+
+<!-- - [Santa Casa - Alvares Machado](https://github.com/gabryelhborges/santa-casa) - Desenvolvemos um programa em JS -->
+
