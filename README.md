@@ -14,6 +14,7 @@
 ![Java](https://img.shields.io/badge/JAVA-F44336?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Android](https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### Bancos de Dados:
 ![MySQL](https://img.shields.io/badge/MYSQL-00758f?style=for-the-badge&logo=MYSQL&logoColor=white)
