@@ -28,10 +28,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=SASS&logoColor=white)
 
-### Sistemas Operacionais:
-![Windows 11](https://img.shields.io/badge/WINDOWS%2011-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/UBUNTU-E95420?style=for-the-badge&logo=UBUNTU&logoColor=white)
-
 ---
 
 ### 📚 Atualmente Estudando
